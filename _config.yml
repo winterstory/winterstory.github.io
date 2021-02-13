@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dabae Kim"
+  name             : "DabaeKim"
   #avatar           : "/assets/images/profile/programmer.png" # 프로필 이미지
   bio              : "Robotics software engineer <br> Thank you"
   location         : "Republic of Korea"
